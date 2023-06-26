@@ -21,7 +21,7 @@ pip install matplotlib numpy pydub
 
 To run the program, execute the following command:
 ```cmd
-python program.py
+python Khaos.py
 ```
 
 Upon running the program, a GUI window titled "Chaotic System Simulator" will open. The GUI provides various options and sliders to control and visualize different chaotic systems.

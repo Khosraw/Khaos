@@ -1,4 +1,4 @@
-# Chaotic System Simulator
+# Khaos - Chaotic System Simulator
 
 This is a Python program that allows you to simulate and visualize various chaotic systems using a graphical user interface (GUI). The program uses the `tkinter` library for the GUI, `matplotlib` for plotting, and other libraries for sound generation and playback.
 
